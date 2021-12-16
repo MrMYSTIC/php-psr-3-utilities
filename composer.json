@@ -29,7 +29,7 @@
     }
   },
   "config": {
-    "sort-packages": true,
+    "sort-packages": true
   },
   "scripts": {
     "ensure-installed": "composer install --ansi -n -q",
